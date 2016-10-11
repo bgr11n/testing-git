@@ -1,3 +1,6 @@
 def asd
-  p 'asd'
+  'asd 1'
 end
+
+# Going to print asd
+p asd
